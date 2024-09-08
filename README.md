@@ -17,9 +17,13 @@ Feature Engineering: Selecting and transforming the most relevant data inputs (f
 Popular Algorithms:
 
 Linear Regression: For predicting numerical values.
+
 Decision Trees: For making decisions based on features.
+
 Support Vector Machines (SVM): For classification tasks.
+
 Neural Networks: For complex tasks like image recognition or natural language processing.
+
 Deep Learning: A subset of ML involving neural networks with many layers, which can learn from vast amounts of data and solve highly complex problems, such as voice recognition and autonomous driving.
 
 Machine learning powers a wide range of applications, from recommendation systems (Netflix, Amazon) to self-driving cars, medical diagnosis, fraud detection, and more!
